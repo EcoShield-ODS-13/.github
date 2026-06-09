@@ -1,7 +1,9 @@
-
 <div align="center">
-<div style="display: flex; flex-direction: column; align-items: center;"><img src="https://raw.githubusercontent.com/EcoShield-ODS-13/EcoShield-Landing-Page/main/src/assets/images/echoshield_icon.png" alt="EcoShield" width="0">
-<h1>EcoShield</h1></div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://raw.githubusercontent.com/EcoShield-ODS-13/EcoShield-Landing-Page/main/src/assets/images/echoshield_icon.png" alt="EcoShield" width="150">
+    <h1>EcoShield</h1>
+  </div>
+</div>
 
 <img src="https://img.shields.io/badge/ODS%2013-Ação%20climática-22C55E?style=for-the-badge"> <img src="https://img.shields.io/badge/Global%20Solution-FIAP-FF0067?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge"> </div>
 
