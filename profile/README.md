@@ -21,25 +21,30 @@ Os projetos apresentados abaixo foram desenvolvidos ao longo das disciplinas com
 <summary>Ver Projetos</summary>
 
 
+### 🚨 EcoShield Arduino
+Projeto embarcado desenvolvido com Arduino para monitorar o nível da água e identificar possíveis riscos de enchente. O sistema utiliza sensores para detectar alterações no volume hídrico e emite alertas visuais e sonoros de acordo com o nível de gravidade identificado.
+
+🔗 Repositório: [EcoShield-Arduino](https://github.com/EcoShield-ODS-13/EcoShield-Arduino)
+
+### 📊 EcoShield Pitch
+Video para a matéria de Storytelling e inspiração empreendedora, mostrando o projeto como um Pitch com um conteúdo intuitivo de dinâmico, segue o link do video abaixo.
+
+🔗 Link: [EcoShield-Pitch](https://www.youtube.com/watch?v=dfJ1xzazD-o)
+
 ### 💻 EcoShield Landing Page
 Plataforma web criada para centralizar e apresentar toda a documentação do projeto EcoShield, incluindo sua proposta, funcionalidades e tecnologias. Com um pré-cadastro para o acesso do aplicativo, além de um quiz informativo sobre o tema.
 
 🔗 Repositório: [EcoShield-Landing-Page](https://github.com/EcoShield-ODS-13/EcoShield-Landing-Page/tree/main)
 
-### 🌧️ EcoShield Flood Risk
+### 🛰️ EcoShield Python
+Solução desenvolvida em Python para consulta e análise de dados climáticos. A aplicação recebe o nome de uma cidade e estado, utiliza APIs para obter informações meteorológicas, e retorna o risco de enchentes com base em chuva, precipitação e umidade, exibe os resultados ao usuário e gera relatórios em PDF para registro das análises.
+
+🔗 Repositório: [EcoShield-Python](https://github.com/EcoShield-ODS-13/EcoShield-Python)
+
+### 🌧️ EcoShield Differentiated Problem Solving
 Solução desenvolvida em Python para monitoramento e previsão de riscos de enchentes. A aplicação recebe o volume de precipitação em milímetros (mm), realiza cálculos para estimar o nível de risco, exibe alertas classificados por gravidade e gera gráficos que auxiliam na análise e tomada de decisões.
 
-🔗 Repositório: [EcoShield-Flood-Risk](https://github.com/EcoShield-ODS-13/EcoShield-Flood-risk)
-
-### 🛰️ EcoShield Arduino
-Projeto embarcado desenvolvido com Arduino para monitorar o nível da água e identificar possíveis riscos de enchente. O sistema utiliza sensores para detectar alterações no volume hídrico e emite alertas visuais e sonoros de acordo com o nível de gravidade identificado.
-
-🔗 Repositório: [EcoShield-Arduino](https://github.com/EcoShield-ODS-13/EcoShield-Arduino)
-
-### 🛰️ EcoShield Pitch
-Video para a matéria de Storytelling e inspiração empreendedora, mostrando o projeto como um Pitch com um conteúdo intuitivo de dinâmico, segue o link do video abaixo.
-
-🔗 Link: [EcoShield-Pitch](https://www.youtube.com/watch?v=dfJ1xzazD-o)
+🔗 Repositório: [EcoShield-Differentiated-Problem-Solving](https://github.com/EcoShield-ODS-13/EcoShield-Differentiated-Problem-Solving)
 
 ### 🌿 EcoShield App
 O EcoShield App é a aplicação central do projeto, reunindo todas as soluções desenvolvidas pela equipe em uma plataforma inteligente voltada à prevenção de enchentes. Utilizando dados ambientais, monitoramento climático e tecnologias inspiradas no setor espacial, o aplicativo permite consultar localidades específicas, como cidades, bairros e ruas, para verificar o risco de alagamentos, receber alertas em tempo real e promover a segurança das comunidades diante de eventos climáticos extremos.
