@@ -36,6 +36,11 @@ Projeto embarcado desenvolvido com Arduino para monitorar o nível da água e id
 
 🔗 Repositório: [EcoShield-Arduino](https://github.com/EcoShield-ODS-13/EcoShield-Arduino)
 
+### 🛰️ EcoShield Pitch
+Video para a matéria de Storytelling e inspiração empreendedora, mostrando o projeto como um Pitch com um conteúdo intuitivo de dinâmico, segue o link do video abaixo.
+
+🔗 Link: [EcoShield-Pitch](https://www.youtube.com/watch?v=dfJ1xzazD-o)
+
 ### 🌿 EcoShield App
 O EcoShield App é a aplicação central do projeto, reunindo todas as soluções desenvolvidas pela equipe em uma plataforma inteligente voltada à prevenção de enchentes. Utilizando dados ambientais, monitoramento climático e tecnologias inspiradas no setor espacial, o aplicativo permite consultar localidades específicas, como cidades, bairros e ruas, para verificar o risco de alagamentos, receber alertas em tempo real e promover a segurança das comunidades diante de eventos climáticos extremos.
 
