@@ -49,7 +49,7 @@ Solução desenvolvida em Python para monitoramento e previsão de riscos de enc
 ### 🌧️ EcoShield Api
 A EcoShield API é o backend desenvolvido em Python com FastAPI para o projeto EcoShield, criado durante a Global Solution da FIAP. Sua função é integrar dados climáticos, localização e informações simuladas de sensores para avaliar o risco de alagamento de ruas e regiões.A API realiza consultas de localização e condições meteorológicas por meio de serviços externos, processa dados como chuva, umidade, temperatura e nível de água e utiliza essas informações para calcular um nível de risco. A partir desse processamento, classifica a situação da região e disponibiliza os resultados para consumo pelo aplicativo.
 
-🔗 Repositório: ([EcoShield Api](https://github.com/EcoShield-ODS-13/EcoShield-API)
+🔗 Repositório: [EcoShield Api](https://github.com/EcoShield-ODS-13/EcoShield-API)
 
 ### 🌧️ EcoShield App
 O EcoShield App é a aplicação central do projeto, reunindo todas as soluções desenvolvidas pela equipe em uma plataforma inteligente voltada à prevenção de enchentes. Utilizando dados ambientais, monitoramento climático e tecnologias inspiradas no setor espacial, o aplicativo permite consultar localidades específicas, como cidades, bairros e ruas, para verificar o risco de alagamentos, receber alertas em tempo real e promover a segurança das comunidades diante de eventos climáticos extremos.
